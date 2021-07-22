@@ -26,7 +26,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.CreatingVariables">
+    <configuration name="CreatingVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CreatingVariables" />
+      <module name="Java_1.0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloWorld" />
       <module name="Java_1.0" />
@@ -36,6 +43,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CreatingVariables" />
         <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
