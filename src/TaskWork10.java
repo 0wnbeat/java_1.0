@@ -19,7 +19,7 @@ public class TaskWork10 {
 
         for (int i = 0; i < str; i++) {
             for (int j = 0; j < col; j++){
-                System.out.println("Ввкдите [" + i + ", " + j + "] элемент:");
+                System.out.println("Введите [" + i + ", " + j + "] элемент:");
                 Scanner scannerElement = new Scanner(System.in);
                 int ele = scannerElement.nextInt();
                 allElements[i][j] = ele;
@@ -29,7 +29,7 @@ public class TaskWork10 {
         System.out.print("Первая строка в матрице: " );
         for (int i = 0; i < 1; i++) {
             for (int j = 0; j < col; j++){
-                System.out.print(allElements[i][j] + "\t");
+                System.out.print(allElements[i][j] * 3 + "\t");
             }
         }
     }

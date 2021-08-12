@@ -35,35 +35,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
   </component>
-  <component name="RunManager" selected="Application.TaskWork10">
-    <configuration name="TaskWork05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TaskWork05" />
-      <module name="Java_1.0" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TaskWork06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TaskWork06" />
-      <module name="Java_1.0" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TaskWork07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TaskWork07" />
-      <module name="Java_1.0" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TaskWork08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TaskWork08" />
-      <module name="Java_1.0" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TaskWork13">
     <configuration name="TaskWork09" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="TaskWork09" />
       <module name="Java_1.0" />
@@ -78,13 +50,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TaskWork11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TaskWork11" />
+      <module name="Java_1.0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskWork12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TaskWork12" />
+      <module name="Java_1.0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskWork13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TaskWork13" />
+      <module name="Java_1.0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskWork14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TaskWork14" />
+      <module name="Java_1.0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TaskWork13" />
+        <item itemvalue="Application.TaskWork14" />
+        <item itemvalue="Application.TaskWork12" />
+        <item itemvalue="Application.TaskWork11" />
         <item itemvalue="Application.TaskWork10" />
-        <item itemvalue="Application.TaskWork08" />
-        <item itemvalue="Application.TaskWork07" />
-        <item itemvalue="Application.TaskWork06" />
-        <item itemvalue="Application.TaskWork05" />
       </list>
     </recent_temporary>
   </component>
@@ -98,6 +98,17 @@
       <updated>1626955059298</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
