@@ -35,30 +35,37 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
   </component>
-  <component name="RunManager" selected="Application.TaskWork13">
+  <component name="RunManager" selected="Application.FinalTaskWork04">
+    <configuration name="FinalTaskWork01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalTaskWork01" />
+      <module name="Java_1.0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FinalTaskWork02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalTaskWork02" />
+      <module name="Java_1.0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FinalTaskWork03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalTaskWork03" />
+      <module name="Java_1.0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FinalTaskWork04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalTaskWork04" />
+      <module name="Java_1.0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TaskWork09" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="TaskWork09" />
-      <module name="Java_1.0" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TaskWork10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TaskWork10" />
-      <module name="Java_1.0" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TaskWork11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TaskWork11" />
-      <module name="Java_1.0" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TaskWork12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TaskWork12" />
       <module name="Java_1.0" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,20 +78,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaskWork14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TaskWork14" />
-      <module name="Java_1.0" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FinalTaskWork04" />
+        <item itemvalue="Application.FinalTaskWork03" />
         <item itemvalue="Application.TaskWork13" />
-        <item itemvalue="Application.TaskWork14" />
-        <item itemvalue="Application.TaskWork12" />
-        <item itemvalue="Application.TaskWork11" />
-        <item itemvalue="Application.TaskWork10" />
+        <item itemvalue="Application.FinalTaskWork02" />
+        <item itemvalue="Application.FinalTaskWork01" />
       </list>
     </recent_temporary>
   </component>
@@ -109,6 +109,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

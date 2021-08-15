@@ -32,7 +32,7 @@ public class TaskWork13 {
             }
         }
         for (Object word : newWords) {
-            System.out.println("Слова состоящие только из литиницы: " + word);  //вывод латинских слов
+            System.out.println("Слово состоящее только из литиницы: " + word);  //вывод латинских слов
         }
         System.out.println("Количество слов состоящих только из латиницы: " + newWords.size()); //вывод количества латинских слов
     }
